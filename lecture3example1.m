@@ -4,7 +4,7 @@ close all;
 
 Fs = 84000;
 
-t = 0:5*(1/Fs):5; % seconds
+t = 0:1/Fs:5; % seconds
 f1 = 5000;
 f2 = 200;
 A1 = 1;
